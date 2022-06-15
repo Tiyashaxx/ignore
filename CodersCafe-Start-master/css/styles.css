@@ -1,0 +1,200 @@
+
+#title
+{
+  background-color: #1363DF;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+p
+{
+  color: #8f8f8f;
+  font-family: 'Ubuntu', sans-serif;;
+}
+
+h1
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.logo
+{
+  margin: 20px 10px;
+  height: 40px;
+}
+
+.download-button
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+button
+{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.container-fluid
+{
+  padding: 3% 15% 7%;
+}
+
+.navbar
+{
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand
+{
+  font-family: 'ShareTech Mono', monospace;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar-item
+{
+  padding-left: 18px;
+  padding-right: 18px
+}
+
+.nav-link
+{
+  font-size: 1.2rem;
+}
+
+.download-button
+{
+  margin:5% 3% 5% 0;
+}
+
+.iphone
+{
+  width:80%;
+  left: 15%;
+  position: absolute;
+}
+
+#features
+{
+  background-color: white;
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-box
+{
+  text-align: center;
+  padding: 5%;
+}
+
+.image
+{
+  color: #47B5FF;
+  margin-bottom: 1rem;
+}
+
+.image:hover
+{
+  color: #1363DF;
+}
+
+#testimonials
+{
+  text-align: center;
+  background-color: #47B5FF;
+  color: white;
+}
+
+.testimonial-image
+{
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item
+{
+  padding: 7% 15%;
+}
+
+#press
+{
+  background-color: #47B5FF;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo
+{
+  width: 15%;
+  margin: 50px 20px 50px;
+}
+
+#pricing
+{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.pricing-column
+{
+  padding: 3% 2%;
+}
+
+.card
+{
+  height: 100%;
+}
+
+.compare
+{
+  padding-top: 10%;
+  padding-bottom: 3%;
+}
+
+@media (max-width:990px) {
+  .iphone
+  {
+    position:static;
+  }
+}
+
+#cta
+{
+  background-color: #1363DF;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.download-title
+{
+  font-family: "Montserrat" , sans-serif;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+#footer
+{
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.social-icon
+{
+  margin: 20px 10px;
+}
